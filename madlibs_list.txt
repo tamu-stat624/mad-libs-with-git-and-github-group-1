@@ -1,4 +1,3 @@
- Harshad624-madlibs
 1. Sreethan Reddy
 2. Best Friend
 3. Handsome
@@ -11,20 +10,6 @@
 10.Bedroom
 11.Water
 12. Comfortable
-
-1. Sreethan Reddy
-2. Best Friend
-3. Handsome
-4. Blue
-5. March
-6. 27
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
- main
 13. Material
 14. Activity
 15. Adverb
