@@ -10,10 +10,10 @@
 10.Bedroom
 11.Water
 12. Comfortable
-13. Material
-14. Activity
-15. Adverb
-16. Number
+13. foam
+14. playing
+15. happily
+16. 100
 17. Unit of Time
 18. Different Activity
 19. Adjective
